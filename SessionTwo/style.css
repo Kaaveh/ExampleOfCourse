@@ -1,0 +1,17 @@
+*{
+    padding: 20px;
+}
+
+#p01 {
+    color: brown;
+    font-size: 300%;
+    background-color: aquamarine;
+    border: 1px solid black;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+}
+
+#p02{
+    color: blue;
+}
