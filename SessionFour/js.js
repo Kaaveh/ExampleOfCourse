@@ -1,8 +1,8 @@
 function myFunction() {
-    document.getElementById("demo").innerHTML
-        = "Paragraph changed.";
+    // document.getElementById("demo").innerHTML
+    //     = "Paragraph changed.";
     document.write("document.write");
-    window.alert("window.alert");
+    // window.alert("window.alert");
     console.log("console.log");
 }
 
